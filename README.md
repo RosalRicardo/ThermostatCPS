@@ -1,5 +1,7 @@
 # CPS Model Thermostat
 
+![simulation](https://github.com/RosalRicardo/ThermostatCPS/blob/master/docs/simulacao.png)
+
 ### Physical Component
 
 Given a room that has a temperature whose dynamics are defined by the function $$T \in \mathbb{R}$$ and a device that can control this temperature, such as an HVAC System. We can model the physical component of this system by the following differential equation.
