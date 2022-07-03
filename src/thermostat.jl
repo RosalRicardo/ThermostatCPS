@@ -4,7 +4,7 @@ u0 = 0
 Tmax = 30
 Tmin = 18
 α = -1.65
-state = []
+state = Int32[]
 
 thermostat(u,p,t) = p[1]*u+p[2]
 
